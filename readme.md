@@ -2,6 +2,8 @@
 
 Hi guys, I'm going to teach you how to configure Neovim like this:
 
+[demo]: https://github.com/mohsen-coder/nvim-config/blob/main/nvim-demo.jpg "my configuration demo"
+
 ## Installation
 
 To configure Neovim we need a plugin manager. there are some plugin managers like vim-plug, Pathogen, Vundle and etc. We'll use vim-plug for this purpose.
